@@ -1,5 +1,7 @@
 /* styles.css */
 body {
+    background-color: black;
+    text-decoration-color: bisque;
     font-family: "Comic Sans MS", cursive, sans-serif;
     margin: 0;
     padding: 0;
